@@ -1,4 +1,3 @@
-# poS
 PyQt5 point of sale system
 
 
